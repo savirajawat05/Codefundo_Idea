@@ -14,7 +14,7 @@ This Superuser account will be created for
 Election Commission Official with different  level of access to the 
 Different level of officials .
 
-On the day of voting we will first after login
+On the day of voting after login first
 Voter must verify their physical appearance by
 Finger print that we will verify with
 UIDAI Database & only after the successful authentication
